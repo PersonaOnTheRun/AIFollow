@@ -10,4 +10,5 @@ from TwitterFollowBot import TwitterBot
 
 my_bot = TwitterBot('/Users/cammilligan/Dropbox/TwitterMadness/config.txt')
 my_bot.sync_follows()
-my_bot.auto_follow("#machinelearning")
+#my_bot.auto_follow("#machinelearning")
+
